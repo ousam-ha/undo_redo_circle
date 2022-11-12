@@ -1,4 +1,5 @@
 # undo_redo_circle
 
 - React App that draws circle on click of mouse, with functionality to undo and redo.
-[Live](https://melodious-khapse-9d2f8c.netlify.app/)
+
+<a href="https://melodious-khapse-9d2f8c.netlify.app/" target="_blank">Demo</a>
