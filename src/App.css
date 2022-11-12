@@ -1,0 +1,37 @@
+/* Font */
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&family=Sono:wght@400;500;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  font-family: "Sono", sans-serif;
+  font-size: 16px;
+}
+
+.container {
+  background: #2c3333;
+  height: 94vh;
+}
+
+.button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-family: "Sono";
+  font-size: 20px;
+  font-weight: 700;
+  background: #2c3333;
+  border: none;
+  border-radius: 5px;
+  color: #a5c9ca;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in 10ms;
+}
+.button:hover {
+  color: #2c3333;
+  background: #a5c9ca;
+}
